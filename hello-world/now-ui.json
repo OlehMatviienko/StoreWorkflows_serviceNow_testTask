@@ -1,0 +1,13 @@
+{
+	"components": {
+	    "x-528144-hello-world": {
+			"uiBuilder": {
+				"label" : "hello world label",
+				"icon" : "chat-fill",
+				"description": "List of available icons is 404"
+			},
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_528144_test_he_0"
+}

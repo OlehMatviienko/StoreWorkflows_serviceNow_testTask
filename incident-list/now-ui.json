@@ -1,0 +1,13 @@
+{
+	"components": {
+	    "x-528144-incident-list": {
+			"uiBuilder": {
+				"label" : "test/incident-list",
+				"icon" : "chat-fill", 
+				"description" : "Create a new component and use API to get data for it - incident-list"
+			},
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_528144_test_in_0"
+}

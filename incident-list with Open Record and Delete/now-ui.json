@@ -1,0 +1,13 @@
+{
+	"components": {
+	    "x-528144-incident-list-with-open-record-and-delete": {
+			"uiBuilder": {
+				"label" : "test/incident-list-with-open-record-and-delete",
+				"icon" : "chat-fill", 
+				"description" : "Was added 2 actions: Open Record and Delete to the incident-list"
+			},
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_528144_test_in_1"
+}

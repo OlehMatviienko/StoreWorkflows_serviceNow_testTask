@@ -1,0 +1,15 @@
+{
+	"components": {
+	    "x-528144-card-list": {
+			"uiBuilder": {
+				"label" : "test/card-list",
+				"icon" : "chat-fill", 
+				"description" : "Create component using Now Experience Components library - now-template-card"
+			},
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_528144_test_ca_0"
+	
+
+}
